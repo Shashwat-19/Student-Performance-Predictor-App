@@ -14,6 +14,11 @@ The **Student Performance Predictor App** is a simple and interactive Streamlit-
 
 ---
 
+## 🌐 Live Demo
+
+🎯 Try the app live here: [**Student Performance Predictor 🔗**](https://student-performance-predictor-app-5ipdnmmykuxzv7ylhrqcwh.streamlit.app)
+
+
 ## 🚀 Features
 
 - 📁 Upload and analyze student academic data
