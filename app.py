@@ -1,5 +1,5 @@
-import streamlit as st
-import pandas as pd
+import streamlit as st # type: ignore
+import pandas as pd # pyright: ignore[reportMissingModuleSource]
 import plotly.express as px # type: ignore
 from sklearn.model_selection import train_test_split # type: ignore
 from sklearn.ensemble import RandomForestClassifier # type: ignore
