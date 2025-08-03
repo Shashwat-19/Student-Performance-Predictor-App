@@ -2,9 +2,11 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue?logo=python)](https://www.python.org/)
+![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue)
 [![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-ff4b4b?logo=streamlit&logoColor=white)](https://streamlit.io)
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen)](https://github.com/Shashwat-19/Student-Performance-Predictor-App)
 [![Stars](https://img.shields.io/github/stars/Shashwat-19/Student-Performance-Predictor-App?style=social)](https://github.com/Shashwat-19/Student-Performance-Predictor-App)
+
 
 ---
 
